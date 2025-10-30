@@ -1,3 +1,8 @@
+#edit
+Added buttons to use the results from here and open them in fenlite
+<img width="1450" height="726" alt="image" src="https://github.com/user-attachments/assets/e288a85c-2b5d-43c7-8156-361586d7e11f" />
+
+
 # script.embuary.info
 
 Script to provide skinners the option to call The Movie DB for actor and video infos.
